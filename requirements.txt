@@ -7,7 +7,7 @@ ibm-cloud-sdk-core==1.5.1
 ibm-watson==4.4.1
 idna==2.9
 joblib==0.14.1
-nltk==3.5
+nltk==3.6
 numpy==1.18.4
 pandas==1.0.3
 PyJWT==1.7.1
@@ -15,7 +15,7 @@ python-dateutil==2.8.1
 pytz==2020.1
 regex==2020.5.14
 requests==2.23.0
-scikit-learn==0.23.0
+scikit-learn==0.24.2
 scipy==1.4.1
 simpleaudio==1.0.4
 six==1.14.0
@@ -23,7 +23,7 @@ sklearn==0.0
 soupsieve==2.0
 threadpoolctl==2.0.0
 tqdm==4.46.0
-urllib3==1.25.9
+urllib3==1.26.5
 websocket-client==0.48.0
 wikipedia==1.4.0
 wordnet==0.0.1b2
